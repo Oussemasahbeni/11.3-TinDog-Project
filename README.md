@@ -1,1 +1,1 @@
-# TinDog Project
+# TinDog Project with Dark Mode
